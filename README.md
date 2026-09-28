@@ -4,7 +4,8 @@
   <p><strong>Enterprise Production Management, AI Workflows & Financial OS for Multi-Channel Media Houses</strong></p>
 
   <p>
-    <a href="https://YOUR-VERCEL-APP-URL.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-Vercel-black?style=for-the-badge&logo=vercel" alt="[Live Demo](https://youtube-automation-command-center-beige.vercel.app/)" /></a>
+   <a href="https://youtube-automation-command-center-beige.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-Vercel-black?style=for-the-badge&logo=vercel" alt="Live Demo" /></a>
+
     <img src="https://img.shields.io/badge/Status-Production_Ready-brightgreen?style=for-the-badge" alt="Production Ready" />
     <img src="https://img.shields.io/badge/Architecture-Cloud_Native-blue?style=for-the-badge" alt="Cloud Native" />
   </p>
