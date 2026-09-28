@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/studioos-logo.png" alt="StudioOS Logo" width="120" onerror="this.style.display='none'"/>
+  <img src="assets/studioos-logo-120.png" alt="StudioOS Logo" width="120" onerror="this.style.display='none'"/>
   <h1>🎬 YouTube Automation Command Center (StudioOS)</h1>
   <p><strong>Enterprise Production Management, AI Workflows & Financial OS for Multi-Channel Media Houses</strong></p>
 
